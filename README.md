@@ -1,4 +1,18 @@
-# CrewAI `kickoff_for_each` Replay Audit
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarperZ9/crewai-kickoff-replay-receipt/main/docs/art/hero-dark.svg">
+  <img src="https://raw.githubusercontent.com/HarperZ9/crewai-kickoff-replay-receipt/main/docs/art/hero-light.svg" alt="crewai-kickoff-replay-receipt: Repro evidence that CrewAI kickoff_for_each deletes replay records. A chain of small linked squares, each holding a few ruled lines, winds inward to a bright core. One mark is labelled DRIFT." width="100%">
+</picture>
+
+# crewai-kickoff-replay-receipt
+
+Repro evidence that CrewAI kickoff_for_each deletes replay records.
+
+```
+git clone https://github.com/crewAIInc/crewAI.git crewAI
+```
+
+[![license](https://img.shields.io/badge/license-MIT-e6e1d6?style=flat-square&labelColor=1a1712)](https://github.com/HarperZ9/crewai-kickoff-replay-receipt/blob/main/LICENSE)
+![python 3.12](https://img.shields.io/badge/python-3.12-e6e1d6?style=flat-square&labelColor=1a1712)
 
 This is a public-safe evidence bundle for CrewAI commit `b3aaaab023a53a08db4d36c9430b3463f1efcc7d` (version 1.15.6).
 
